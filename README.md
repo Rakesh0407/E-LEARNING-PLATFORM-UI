@@ -10,3 +10,4 @@ The **Home Page** displays a list of courses with brief descriptions and links t
 Styling should ensure a clean and modern look, with intuitive navigation and a user-friendly layout. JavaScript is used to handle interactivity, such as updating progress dynamically based on video completion. This front-end design serves as a foundation for future integration with a backend for user authentication, content management, and data persistence. The goal is to deliver a polished, functional UI prototype ready for real-world deployment or enhancement.
 <img width="954" height="341" alt="Image" src="https://github.com/user-attachments/assets/376796d5-21dd-4a37-98a7-2d3a6348b3b8" />
 <img width="526" height="356" alt="Image" src="https://github.com/user-attachments/assets/15545b0a-eff8-42d3-b06e-4c42b3bdea8a" />
+<img width="305" height="202" alt="Image" src="https://github.com/user-attachments/assets/0ae31c57-d65c-47b9-8f1e-31eaaa470f04" />
